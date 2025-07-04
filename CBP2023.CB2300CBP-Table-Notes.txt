@@ -1,0 +1,161 @@
+
+
+=============================================================================================================
+Key Table Information
+=============================================================================================================
+
+Table Title
+
+  All Sectors: County Business Patterns, including ZIP Code Business Patterns, by Legal Form of Organization and Employment Size Class for the U.S., States, and Selected Geographies: 2023
+  
+-------------------------------------------------------------------------------------------------------------
+
+Table ID
+
+  CBP2023.CB2300CBP
+  
+-------------------------------------------------------------------------------------------------------------
+
+Survey/Program
+
+  Economic Surveys
+  
+-------------------------------------------------------------------------------------------------------------
+
+Year
+
+  2023
+  
+-------------------------------------------------------------------------------------------------------------
+
+Dataset
+
+  ECNSVY Business Patterns County Business Patterns
+  
+-------------------------------------------------------------------------------------------------------------
+
+Source
+
+  U.S. Census Bureau, 2023 Economic Surveys, Business Patterns
+  
+-------------------------------------------------------------------------------------------------------------
+
+Release Date
+
+  2025-06-26
+  
+-------------------------------------------------------------------------------------------------------------
+
+Release Schedule
+
+  County Business Patterns (CBP) data, including ZIP Code Business Patterns (ZBP) data are released annually around the month of June. For more information about CBP data releases, see <a href=\"https://www.census.gov/programs-surveys/cbp/news-updates.html\" target=\"_blank\">County Business Patterns Updates.<\/a>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Dataset Universe
+
+  The dataset universe consists of all establishments that are in operation for at least some part of 2023, are located in one of the 50 U.S. states, associated offshore areas, or the District of Columbia, have paid employees, and are classified in one of nineteen in-scope sectors defined by the 2017 North American Industry Classification System (NAICS). For more information, see <a href=\"https://www.census.gov/programs-surveys/cbp/technical-documentation/methodology.html\" target=\"_blank\">County Business Patterns Methodology.<\/a>
+  
+-------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================
+Methodology
+=============================================================================================================
+
+Data Items and Other Identifying Records
+
+  Number of establishments<br>Annual payroll ($1,000)<br>First-quarter payroll ($1,000)<br>Number of employees (during the pay period including March 12)<br>Noise range for annual payroll, first-quarter payroll, and number of employees during the pay period including March 12<p>Definitions of data items can be found in the table by clicking on the column header and selecting “Column Notes” or by accessing the <a href=\"https://www.census.gov/programs-surveys/cbp/about/glossary.html\" target=\"_blank\">County Business Patterns Glossary.<\/a><\/p>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Unit(s) of Observation
+
+  The units for CBP are employer establishments with paid employees extracted from the Business Register, Census Bureau's source of information on employer establishments. An establishment is a single physical location at which business is conducted or services or industrial operations are performed. An establishment is not necessarily equivalent to a company or enterprise, which may consist of one or more establishments. For more information, see <a href=\"https://www.census.gov/programs-surveys/cbp/technical-documentation/methodology.html\" target=\"_blank\">County Business Patterns Methodology.<\/a>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Geography Coverage
+
+  The data are shown at the U.S., State, County, Metropolitan and Micropolitan Statistical Areas, Combined Statistical Area, 5-digit ZIP code, and Congressional District levels. Also available are data for the District of Columbia, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands) at the state and county equivalent levels.<p>Four additional employment-size classes (1,000 to 1,499 employees, 1,500 to 2,499 employees, 2,500 to 4,999 employees, and 5,000 or more employees) are available at the CSA, MSA, and county-levels.<\/p><p>For information about geographic classification, see <a href=\"https://www.census.gov/programs-surveys/cbp/technical-documentation/methodology.html\" target=\"_blank\">Program Methodology.<\/a><\/p>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Industry Coverage
+
+  The data are shown at the 2- through 6-digit NAICS code levels for all sectors with published data, and for NAICS code 00 (Total for all sectors).<p>ZBP data by employment size class, shown at the 2- through 6-digit NAICS code levels, only contains data on the number of establishments. ZBP data shown for NAICS code 00 (Total across all sectors) contains data on the number of establishments, total employment, first quarter payroll, and annual payroll.<\/p><p>For information about industry coverage, see <a href=\"https://www.census.gov/programs-surveys/cbp/technical-documentation/methodology.html\" target=\"_blank\">Program Methodology.<\/a><\/p>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Business Characteristics
+
+  Data are classified by Legal Form of Organization (U.S. and state level only) and employment size category of the establishment (1,000 to 1,499 employees, 1,500 to 2,499 employees, 2,500 to 4,999 employees, and 5,000 or more employees). <p>Definitions of data items can be found in the table by clicking on the column header and selecting “Column Notes” or by accessing the <a href=\"https://www.census.gov/programs-surveys/cbp/about/glossary.html\" target=\"_blank\">County Business Patterns Glossary.<\/a><\/p>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Sampling
+
+  There is no sampling done for County Business Patterns. CBP data are derived from a complete tabulation of all establishments on the Census Bureau’s Business Register that meet the in-scope criteria for being included in CBP. For more information about methodology and data limitations, see <a href=\"https://www.census.gov/programs-surveys/cbp/technical-documentation/methodology.html\" target=\"_blank\">County Business Patterns Methodology.<\/a>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Confidentiality
+
+  The Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the confidential source data (Project No. 7503949, Disclosure Review Board (DRB) approval number: CBDRB-FY25-0158). Beginning with reference year 2007, CBP and ZBP data are released using the Noise Infusion disclosure avoidance methodology to protect confidentiality. To comply with disclosure avoidance guidelines, data rows with fewer than three contributing establishments are not presented. In accordance with U.S. Code, Title 13, Section 9, no data are published that would disclose the operations of an individual employer. For more information on the coverage, disclosure avoidance, and methodology of the CBP and ZBP data products see <a href=\"https://www.census.gov/programs-surveys/cbp/technical-documentation/methodology.html\" target=\"_blank\">Program Methodology.<\/a>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Technical Documentation/Methodology
+
+  For detailed information see, <a href=\"https://www.census.gov/programs-surveys/cbp/technical-documentation/methodology.html\" target=\"_blank\">Program Methodology.<\/a>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Weights
+
+  No weighting applied to produce Company Business Patterns statistics.
+  
+-------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================
+Table Information
+=============================================================================================================
+
+FTP Download
+
+  https://www2.census.gov/programs-surveys/cbp/data/2023
+  
+-------------------------------------------------------------------------------------------------------------
+
+API Information
+
+  County Business Patterns (CBP) and ZIP Code Business Patterns (ZBP) data are housed in the County Business Patterns (CBP) Application Programming Interface (<a href=\"https://www.census.gov/data/developers/data-sets/cbp-zbp.html\" target=\"_blank\">API<\/a>).
+  
+-------------------------------------------------------------------------------------------------------------
+
+Symbols
+
+  D - Withheld to avoid disclosing data for individual companies; data are included in higher level totals<br>G - Low noise; cell value was changed by less than 2 percent by the application of noise<br>H - Moderate noise; cell value was changed by 2 percent or more but less than 5 percent by the application of noise<br>J - High noise; cell value was changed by 5 percent or more by the application of noise<br>S - Withheld because estimate does not meet publication standards<br>N - Not available or not comparable<br>r - Revised (represented as superscript)<br>X - Not applicable<p>For a complete list of symbols, see <a href=\"https://www.census.gov/programs-surveys/cbp/about/glossary.html\" target=\"_blank\">County Business Patterns Glossary.<\/a><\/p>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Data-Specific Notes
+
+  Methodology changes may impact the comparability of data over time, as the Census Bureau does not revise previously released CBP estimates to reflect changes in the industry classifications, geographic definitions, or methodology used to create the CBP estimates. For more information, see the Historical Comparability Section on the <a href=\"https://www.census.gov/programs-surveys/cbp/technical-documentation/methodology.html\" target=\"_blank\">County Business Patterns Methodology Page.<\/a>
+  
+-------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================
+Additional Information
+=============================================================================================================
+
+Contact Information
+
+  U.S. Census Bureau<br>Economy-Wide Statistics Division<br>Business Statistics Branch<br>(301) 763-2580<br>ewd.county.business.patterns@census.gov<p>For additional contacts, see <a href=\"https://www.census.gov/programs-surveys/cbp/contact.html\" target=\"_blank\">Contact Us.<\/a><\/p>
+  
+-------------------------------------------------------------------------------------------------------------
+
+Suggested Citation
+
+  U.S. Census Bureau. \"All Sectors: County Business Patterns, including ZIP Code Business Patterns, by Legal Form of Organization and Employment Size Class for the U.S., States, and Selected Geographies: 2023\" Economic Surveys, ECNSVY Business Patterns County Business Patterns, Table CB2300CBP, 2025, https://data.census.gov/table/CBP2023.CB2300CBP?q=CB2300CBP: Accessed on June 26, 2025.
+  
+-------------------------------------------------------------------------------------------------------------
